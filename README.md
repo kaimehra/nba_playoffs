@@ -1,1 +1,3 @@
 # nba_playoffs
+What team statistical and individual award factors contribute to NBA teams making the playoffs? For example, are NBA playoff teams better rebounders than non-playoff teams?
+I hypothesize that there will be a strong correlation between the total number of all stars and end of season award team players and whether or not a team made the playoffs. Generally, teams with better players win more games, and better players are more likely to get awards. Additionally, I think playoff teams will score more points, assists, and rebounds while turning the ball over less. I think playoff teams will also have better average advanced stat metrics.
